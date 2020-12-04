@@ -9,8 +9,9 @@ a {
     text-decoration: none;
 }
 
+/* Changed font size from 16 */
 p {
-    font-size: 16px;
+    font-size: 25px;
 }
 
 body {
